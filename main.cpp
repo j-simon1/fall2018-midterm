@@ -1,3 +1,4 @@
+/**
 *Description:This program will count how many times a charcter is present in a string.
 *Filename: main.cpp
 *Author: Joe Simon
